@@ -9,17 +9,14 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
-          Download Source Code
+        <a href="https://github.com/diwesh09/Wheather-bio.git">
+          Source Code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
-          Gaurav Ghai
+        <a target="_blank" href="https://github.com/diwesh09">
+          Diwesh Tiwari
         </a>{" "}
-        | Powered by{" "}
-        <a target="_blank" href="https://www.htmlhints.com/">
-          HTML HINTS
-        </a>
+        
       </div>
     </React.Fragment>
   );
